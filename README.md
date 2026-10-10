@@ -58,8 +58,3 @@ The app uses the Gemma 4 model name:
 
 If the model is unavailable, the app warns the user and falls back to a clearly labeled rule-based matching mode.
 
-## Screenshot
-
-The image below is an illustrative graphic, not a screenshot of the running interface.
-
-![Illustrative LostLink AI dashboard graphic](./docs/lostlink-dashboard.png)
