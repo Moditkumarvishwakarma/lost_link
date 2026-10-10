@@ -1,6 +1,6 @@
 # LostLink AI
 
-LostLink AI is a campus lost-and-found platform built for the "Build for Your Campus" . It helps students report lost or found items, browse recent records, and use Gemma 4 to surface likely matches without automatically declaring a confirmed ownership claim.
+LostLink AI is a campus lost-and-found platform built for Your Campus. It helps students report lost or found items, browse recent records, and use Gemma 4 to surface likely matches without automatically declaring a confirmed ownership claim.
 
 ## Features
 
